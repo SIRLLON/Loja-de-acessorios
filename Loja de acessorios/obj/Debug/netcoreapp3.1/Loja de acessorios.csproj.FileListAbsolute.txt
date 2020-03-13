@@ -1,0 +1,11 @@
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.exe
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.deps.json
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.runtimeconfig.json
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.runtimeconfig.dev.json
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.dll
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\bin\Debug\netcoreapp3.1\Loja de acessorios.pdb
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\obj\Debug\netcoreapp3.1\Loja de acessorios.csprojAssemblyReference.cache
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\obj\Debug\netcoreapp3.1\Loja de acessorios.AssemblyInfoInputs.cache
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\obj\Debug\netcoreapp3.1\Loja de acessorios.AssemblyInfo.cs
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\obj\Debug\netcoreapp3.1\Loja de acessorios.dll
+C:\Users\sirll\OneDrive\Área de Trabalho\mirrorfashion-20200302T004616Z-001\mirrorfashion\Loja de acessorios\Loja de acessorios\obj\Debug\netcoreapp3.1\Loja de acessorios.pdb
